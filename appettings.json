@@ -1,0 +1,12 @@
+[
+  {
+    "name": "TESTKEY1",
+    "value": "MYKEY1",
+    "slotSetting": false
+  },
+  {
+    "name": "TESTKEY2",
+    "value": "MYKEY2",
+    "slotSetting": false
+  }
+]
