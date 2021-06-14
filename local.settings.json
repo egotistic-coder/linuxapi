@@ -4,8 +4,7 @@
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "AzureWebJobs.app.Disabled": "false"
   },
-  "appSettings":
-  {
-    "TESTAPP":"HELLO"
+  "appSettings": {
+    "TESTAPP": "HELLO"
   }
 }
